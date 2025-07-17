@@ -1,0 +1,44 @@
+{
+  "name": "ui-builder",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
+    "@editorjs/editorjs": "^2.30.8",
+    "@editorjs/header": "^2.8.8",
+    "@editorjs/image": "^2.10.3",
+    "@editorjs/list": "^2.0.8",
+    "@editorjs/paragraph": "^2.11.7",
+    "@editorjs/simple-image": "^1.6.0",
+    "@hello-pangea/dnd": "^18.0.1",
+    "@reduxjs/toolkit": "^2.8.2",
+    "@tailwindcss/vite": "^4.1.11",
+    "react": "^19.1.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^19.1.0",
+    "react-redux": "^9.2.0",
+    "tailwindcss": "^4.1.11",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "eslint": "^9.30.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "vite": "^7.0.4"
+  }
+}
