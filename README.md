@@ -39,10 +39,10 @@ A powerful drag-and-drop UI Builder built with **React**, **Redux Toolkit**, **T
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/dynamic-ui-builder.git
+git clone https://github.com/your-username/UIbuilder.git
 
 # 2. Navigate to the project
-cd dynamic-ui-builder
+cd ui-builder
 
 # 3. Install dependencies
 npm install
